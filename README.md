@@ -14,11 +14,9 @@ The company runs 150 stores in 149 cities across 35 US states, split into two sa
 
 ## Dataset
 
-The data comes from Kaggle: **[startup-expansion](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/startup-expansionstartup-expansion)**.
-
-| | |
+| Property | Details |
 |---|---|
-| **Source** | [Kaggle: startup-expansion](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/startup-expansionstartup-expansion) |
+| **Source** | [Kaggle: startup-expansion](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/startup-expansion) |
 | **File** | `startup-expansion.xlsx` (18.12 kB, sheet `Sheet1`) |
 | **License** | Apache 2.0 |
 | **Tags** | Business |
